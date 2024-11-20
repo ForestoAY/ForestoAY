@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Foresto Andrean Yudha</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 🌱 I’m currently learning **Vue.js & Nuxt**
+- 🌱 I’m currently learning **Vue.js, Nuxt & Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
